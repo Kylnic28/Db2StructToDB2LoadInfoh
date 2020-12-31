@@ -1,0 +1,16 @@
+$noninline,id$ID<32>
+ItemVisual<32>
+ParticleColorID<32>
+ItemRangedDisplayInfoID<u32>
+OverrideSwooshSoundKitID<u32>
+SheatheTransformMatrixID<32>
+StateSpellVisualKitID<32>
+SheathedSpellVisualKitID<32>
+UnsheathedSpellVisualKitID<u32>
+Flags<32>
+ModelResourcesID<u32>[2]
+ModelMaterialResourcesID<32>[2]
+Field_8_2_0_30080_011<32>[2]
+GeosetGroup<32>[6]
+AttachmentGeosetGroup<32>[6]
+HelmetGeosetVis<32>[2]

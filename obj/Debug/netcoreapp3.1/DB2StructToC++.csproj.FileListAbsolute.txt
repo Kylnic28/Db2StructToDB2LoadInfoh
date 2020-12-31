@@ -1,0 +1,13 @@
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.exe
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.deps.json
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.runtimeconfig.json
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.runtimeconfig.dev.json
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.dll
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\bin\Debug\netcoreapp3.1\DB2StructToC++.pdb
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.csprojAssemblyReference.cache
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.AssemblyInfoInputs.cache
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.AssemblyInfo.cs
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.csproj.CoreCompileInputs.cache
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.dll
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.pdb
+F:\Kylian Nicolet\Development\Projects\DB2StructToC++\obj\Debug\netcoreapp3.1\DB2StructToC++.genruntimeconfig.cache
